@@ -1,2 +1,8 @@
 /.idea/
 *iml
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-client/target/
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-feign/target/
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-ribbon/target/
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-server/target/
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-service/target/
+/dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-zuul/target/
