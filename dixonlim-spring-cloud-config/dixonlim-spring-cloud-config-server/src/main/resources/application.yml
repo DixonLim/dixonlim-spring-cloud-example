@@ -1,0 +1,15 @@
+server:
+  port: 8767
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          password: ''
+          searchPaths: dixonlim-spring-cloud-config/config
+          uri: https://github.com/DixonLim/dixonlim-spring-cloud-example
+          username: ''

@@ -1,0 +1,11 @@
+server:
+  port: 8768
+
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      label: master
+      profile: git
+      uri: http://127.0.0.1:8767/
