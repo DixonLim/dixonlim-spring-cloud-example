@@ -18,6 +18,7 @@
 
     <modules>
         <module>dixonlim-spring-cloud-config-server</module>
+        <module>dixonlim-spring-cloud-config-client</module>
         <module>dixonlim-spring-cloud-config-service</module>
     </modules>
 
