@@ -10,6 +10,7 @@
     <modules>
         <!--module的值是以当前pom文件目录为基准的父工程的pom文件的相对路径 -->
         <module>dixonlim-spring-cloud-eureka</module>
+        <module>dixonlim-spring-cloud-config</module>
     </modules>
 
 

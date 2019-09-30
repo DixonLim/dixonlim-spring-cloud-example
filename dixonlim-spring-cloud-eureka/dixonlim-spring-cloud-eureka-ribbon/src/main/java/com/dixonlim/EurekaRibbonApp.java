@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @Classname com.dixonlim.SpringCloudEurekaCRibbonApp
+ * @Classname com.dixonlim.EurekaRibbonApp
  * @Auther: DixonLim
  * @Date: 2019/9/29 14:14
  * @Description:
@@ -19,9 +19,9 @@ import org.springframework.web.client.RestTemplate;
 @EnableEurekaClient // 通过注解@EnableEurekaClient 表明自己是一个eureka client
 @EnableDiscoveryClient // 通过@EnableDiscoveryClient向服务中心注册
 @EnableHystrix // @EnableHystrix注解开启Hystrix
-public class SpringCloudEurekaRibbonApp {
+public class EurekaRibbonApp {
     public static void main(String[] args) {
-        SpringApplication.run( SpringCloudEurekaRibbonApp.class, args );
+        SpringApplication.run( EurekaRibbonApp.class, args );
     }
 
     /**
