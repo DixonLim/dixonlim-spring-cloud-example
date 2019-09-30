@@ -6,3 +6,5 @@
 /dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-server/target/
 /dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-service/target/
 /dixonlim-spring-cloud-eureka/dixonlim-spring-cloud-eureka-zuul/target/
+/dixonlim-spring-cloud-config/dixonlim-spring-cloud-config-client/target/
+/dixonlim-spring-cloud-config/dixonlim-spring-cloud-config-server/target/
